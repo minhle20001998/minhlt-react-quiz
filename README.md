@@ -1,11 +1,10 @@
-# Web_Movies
+# Web Game
 Quiz game website using ReactJS, Typescript, Context, custom Hooks
 
 # Author: MinhLT 
 
 # Live Demo:
-https://the-awesome-minhle20001998-site.netlify.app/
-
+https://minhlt-quiz-game.netlify.app/
 
 ## How to run on local env
 1. Install dependencies
